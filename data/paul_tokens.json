@@ -39,10 +39,6 @@
         "value": "#3c8281",
         "type": "color"
       },
-      "Primary-10%": {
-        "value": "#3c82811a",
-        "type": "color"
-      },
       "Primary-Disabled": {
         "value": "#8ba4a3",
         "type": "color"
@@ -137,7 +133,8 @@
       },
       "Error": {
         "value": "#eb5757",
-        "type": "color"
+        "type": "color",
+        "description": "This is an error Color - Can you read this Guillaume ?"
       },
       "Error-Light": {
         "value": "#ffdede",
